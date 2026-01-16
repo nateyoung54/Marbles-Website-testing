@@ -1,0 +1,8 @@
+{
+  "id": "partner_sample_retailer",
+  "name": "Sample Retailer",
+  "type": "retailer",
+  "regions": ["USA"],
+  "url": "https://example.com",
+  "notes": "Carries core sight lineup."
+}

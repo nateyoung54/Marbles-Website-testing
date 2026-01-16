@@ -1,0 +1,27 @@
+{
+  "partNumber": "MA-1001",
+  "sku": "SKU-1001",
+  "name": "Sample Dovetail Insert",
+  "slug": "ma-1001",
+  "synonyms": ["1001", "MA1001"],
+  "crossRefs": ["XREF-22"],
+  "specs": {
+    "Material": "Steel",
+    "Finish": "Oxide",
+    "Length": "0.75 in",
+    "Width": "0.20 in"
+  },
+  "fitmentTags": ["dovetail", "rear-sight"],
+  "downloads": [
+    {
+      "id": "doc_dwg_1001",
+      "title": "Drawing - MA-1001",
+      "type": "DWG",
+      "url": "/docs/ma-1001.dwg",
+      "version": "1.0",
+      "date": "2026-01-01",
+      "size": "120 KB"
+    }
+  ],
+  "relatedProductIds": ["prod_sample_sight"]
+}

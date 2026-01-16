@@ -1,0 +1,8 @@
+{
+  "id": "partner_sample_distributor",
+  "name": "Sample Distributor",
+  "type": "distributor",
+  "regions": ["USA", "Midwest"],
+  "url": "https://example.com",
+  "notes": "Distributor relationship placeholder."
+}

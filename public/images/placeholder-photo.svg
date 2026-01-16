@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#F6F3EE"/>
+  <rect x="40" y="40" width="1120" height="720" rx="40" fill="#FFFFFF" stroke="#E6E1DA" stroke-width="8"/>
+  <path d="M140 600 L420 360 L620 520 L860 260 L1060 420 L1060 680 L140 680 Z" fill="#E6E1DA"/>
+  <circle cx="300" cy="280" r="70" fill="#E6E1DA"/>
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="48" fill="#232323">Real photo placeholder</text>
+  <text x="100" y="170" font-family="Arial, sans-serif" font-size="28" fill="#232323" opacity="0.75">Replace with authentic product-in-use, facility, or inspection photography</text>
+</svg>

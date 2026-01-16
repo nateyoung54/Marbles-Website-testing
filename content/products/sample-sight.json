@@ -1,0 +1,37 @@
+{
+  "id": "prod_sample_sight",
+  "name": "Sample Rear Sight",
+  "slug": "sample-rear-sight",
+  "category": "sights",
+  "shortDescription": "Rugged rear sight with clear adjustments and OEM-ready documentation.",
+  "heroImages": [
+    { "src": "/images/placeholder-photo.svg", "alt": "Rear sight installed in use" },
+    { "src": "/images/placeholder-photo.svg", "alt": "Rear sight detail close-up" }
+  ],
+  "bullets": [
+    "Made in USA",
+    "Consistent fitment + QC",
+    "Drawings available on request"
+  ],
+  "specs": {
+    "SKU": "RS-100",
+    "Material": "Steel",
+    "Finish": "Black oxide",
+    "Adjustment": "Windage/Elevation",
+    "Mount": "Dovetail"
+  },
+  "compatibilityNotes": "Compatible with sample platforms (replace with real fitment table/notes).",
+  "downloads": [
+    {
+      "id": "doc_rs100_spec",
+      "title": "Spec Sheet (PDF)",
+      "type": "PDF",
+      "url": "https://example.com/specs/rs100.pdf",
+      "version": "1.0",
+      "date": "2026-01-01",
+      "size": "420KB"
+    }
+  ],
+  "whereToBuyPartnerIds": ["partner_sample_retailer", "partner_sample_distributor"],
+  "relatedProductIds": ["prod_sample_front"]
+}

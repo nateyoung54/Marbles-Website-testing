@@ -1,0 +1,10 @@
+{
+  "id": "doc_spec_sample_sight",
+  "title": "Sample Rear Sight — Spec Sheet",
+  "docType": "spec",
+  "url": "/docs/sample-rear-sight-spec.pdf",
+  "relatedProductIds": ["prod_sample_sight"],
+  "relatedPartNumbers": ["MA-1001"],
+  "date": "2026-01-01",
+  "version": "1.0"
+}

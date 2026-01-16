@@ -1,0 +1,27 @@
+{
+  "id": "prod_sample_front",
+  "name": "Sample Front Sight",
+  "slug": "sample-front-sight",
+  "category": "sights",
+  "shortDescription": "High-visibility front sight with durable finish.",
+  "heroImages": [
+    { "src": "/images/placeholder-photo.svg", "alt": "Front sight in use" }
+  ],
+  "bullets": [
+    "Made in USA",
+    "Durable finish",
+    "Clear documentation"
+  ],
+  "specs": {
+    "SKU": "FS-100",
+    "Material": "Steel",
+    "Finish": "Black oxide",
+    "Height": "0.450 in"
+  },
+  "compatibilityNotes": "Compatibility varies by platform. Provide platform/model when contacting Engineering for verification.",
+  "downloads": [
+    { "id": "fs100_spec", "title": "Spec Sheet", "type": "PDF", "url": "/docs/fs100-spec.pdf", "version": "1.0", "date": "2026-01-01", "size": "0.9 MB" }
+  ],
+  "whereToBuyPartnerIds": ["partner_sample_retailer"],
+  "relatedProductIds": ["prod_sample_sight"]
+}
